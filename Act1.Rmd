@@ -32,5 +32,4 @@ plot(pressure)
 hello.
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-try new text 1
-even more text
+let us make a mess here
