@@ -28,6 +28,10 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+
+hello.
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Now this will be a text from main for conflict
+Now this will be a text from main for conflictNow this will be a text from main for conflict
+
+Now this will be a text from main for conflict, and i have resolved with this is from Act1Branch1.
