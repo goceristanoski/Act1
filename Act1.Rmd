@@ -33,3 +33,5 @@ hello.
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 try new text 1
+some new text to make conflict
+>>>>>>> Act1Branch1
