@@ -34,4 +34,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 let us make a mess here
 
+This is a text from the goceristan forked copy of the Act1 repo.
+
 some text in the original file
